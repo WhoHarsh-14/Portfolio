@@ -19,8 +19,6 @@ export const metadata: Metadata = {
     images: [
       {
         url: "/th.png",
-        width: 1200,
-        height: 630,
         alt: "Personal Portfolio Preview",
       },
     ],
